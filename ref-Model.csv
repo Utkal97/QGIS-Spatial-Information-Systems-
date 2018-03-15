@@ -1,0 +1,197 @@
+model_tr_id,farmer_id,submodel_name,submodel_id,crop_name,crop_id
+622,139,Vegetables,4,Chillies,18
+622,139,Small shadow,6,Papaya,146
+3400,139,Underground tuber,1,Radish,131
+3400,139,Underground tuber,1,Onion,153
+3400,139,Leafy vegetables,3,Soreel,102
+3400,139,Leafy vegetables,3,Spinach,124
+3400,139,Vegetables,4,Brinjal,3
+3400,139,Vegetables,4,Tomato,4
+3400,139,Vegetables,4,Okra(Benda),5
+700,144,Creepers,2,Broad beans,112
+785,145,Underground tuber,1,Radish,131
+785,145,Creepers,2,Beans,8
+785,145,Creepers,2,Ridge Gourd,137
+785,145,Creepers,2,Bitter Gourd,138
+785,145,Leafy vegetables,3,Roselle,122
+785,145,Leafy vegetables,3,Amaranthus,126
+785,145,Vegetables,4,Okra(Benda),5
+785,145,Vegetables,4,Chillies,18
+785,145,Small shadow,6,Drumstick,127
+785,145,Small shadow,6,Papaya,146
+785,145,High shadow fruit plants,7,Mango,14
+785,145,High shadow fruit plants,7,Sapota,148
+1402,145,Underground tuber,1,Radish,131
+1402,145,Leafy vegetables,3,Roselle,122
+1402,145,Vegetables,4,Okra(Benda),5
+1402,145,Vegetables,4,Cluster beans,133
+1402,145,Small shadow,6,Drumstick,127
+1402,145,Small shadow,6,Papaya,146
+596,237,Creepers,2,Beans,8
+581,241,Creepers,2,Beans,8
+581,241,Leafy vegetables,3,FenuGreek Leaves,121
+581,241,Vegetables,4,Chillies,18
+3035,460,Underground tuber,1,Garlic,104
+3035,460,Underground tuber,1,Radish,131
+3035,460,Leafy vegetables,3,Roselle,122
+3035,460,Vegetables,4,Tomato,4
+3035,460,Small shadow,6,Drumstick,127
+3035,460,Small shadow,6,Papaya,146
+3361,4134,Underground tuber,1,Garlic,104
+3361,4134,Underground tuber,1,Radish,131
+3361,4134,Leafy vegetables,3,Roselle,122
+3361,4134,Small shadow,6,Curry Leaves,123
+3361,4134,Small shadow,6,Drumstick,127
+3684,7983,Underground tuber,1,Ginger,20
+3684,7983,Underground tuber,1,Radish,131
+3684,7983,Underground tuber,1,Potato ,139
+3684,7983,Underground tuber,1,Carrot,149
+3684,7983,Creepers,2,Bottle Gourd,135
+3684,7983,Creepers,2,Bitter Gourd,138
+3684,7983,Leafy vegetables,3,Mint Leaves,106
+3684,7983,Leafy vegetables,3,Coriander,120
+3684,7983,Leafy vegetables,3,Amaranthus,126
+3684,7983,Vegetables,4,Brinjal,3
+3684,7983,Vegetables,4,Tomato,4
+3684,7983,Vegetables,4,Chillies,18
+3684,7983,Border crops,5,Maize(Corn),6
+950,15803,Creepers,2,Broad beans,112
+950,15803,Creepers,2,French beans,151
+950,15803,Vegetables,4,Brinjal,3
+950,15803,Vegetables,4,Tomato,4
+950,15803,Vegetables,4,Chillies,18
+950,15803,Border crops,5,Bajra,16
+950,15803,High shadow fruit plants,7,Mango,14
+950,15803,High shadow fruit plants,7,Sapota,148
+950,15803,High shadow fruit plants,7,Others,100
+1415,17391,Underground tuber,1,Beetroot,113
+1415,17391,Underground tuber,1,Radish,131
+1415,17391,Underground tuber,1,Carrot,149
+1415,17391,Underground tuber,1,Onion,153
+1415,17391,Vegetables,4,Brinjal,3
+1415,17391,Vegetables,4,Tomato,4
+1415,17391,Vegetables,4,Okra(Benda),5
+1415,17391,Vegetables,4,Chillies,18
+1415,17391,Vegetables,4,Cluster beans,133
+1415,17391,Border crops,5,Maize(Corn),6
+1415,17391,Border crops,5,Mustard,158
+1415,17391,Small shadow,6,Curry Leaves,123
+1416,17465,Underground tuber,1,Garlic,104
+1416,17465,Underground tuber,1,Beetroot,113
+1416,17465,Leafy vegetables,3,Soreel,102
+1416,17465,Leafy vegetables,3,Coriander,120
+1416,17465,Leafy vegetables,3,Roselle,122
+1416,17465,Vegetables,4,Brinjal,3
+1416,17465,Vegetables,4,Okra(Benda),5
+1416,17465,Vegetables,4,Chillies,18
+1416,17465,Border crops,5,Maize(Corn),6
+1416,17465,Small shadow,6,Curry Leaves,123
+2232,18445,Underground tuber,1,Ginger,20
+2232,18445,Underground tuber,1,Garlic,104
+2232,18445,Creepers,2,Beans,8
+2232,18445,Creepers,2,Snake Gourd,136
+2232,18445,Leafy vegetables,3,Mint Leaves,106
+2232,18445,Leafy vegetables,3,FenuGreek Leaves,121
+2232,18445,Leafy vegetables,3,Roselle,122
+2232,18445,Vegetables,4,Tomato,4
+2232,18445,Vegetables,4,Chillies,18
+2232,18445,Border crops,5,Castor,17
+2232,18445,Small shadow,6,Curry Leaves,123
+2232,18445,High shadow fruit plants,7,Pomegranate,147
+2232,18445,High shadow fruit plants,7,Sapota,148
+2232,18445,High shadow fruit plants,7,Others,100
+3247,18455,Underground tuber,1,Carrot,149
+3247,18455,Creepers,2,Beans,8
+3247,18455,Leafy vegetables,3,Mint Leaves,106
+3247,18455,Leafy vegetables,3,Coriander,120
+3247,18455,Vegetables,4,Brinjal,3
+3247,18455,Vegetables,4,Tomato,4
+3247,18455,Vegetables,4,Chillies,18
+3247,18455,Border crops,5,Maize(Corn),6
+3247,18455,Small shadow,6,Papaya,146
+3247,18455,High shadow fruit plants,7,Mango,14
+3508,18455,Underground tuber,1,Beetroot,113
+3508,18455,Underground tuber,1,Potato ,139
+3508,18455,Creepers,2,Beans,8
+3508,18455,Creepers,2,Snake Gourd,136
+3508,18455,Leafy vegetables,3,Mint Leaves,106
+3508,18455,Leafy vegetables,3,Coriander,120
+3508,18455,Leafy vegetables,3,Amaranthus,126
+3508,18455,Vegetables,4,Brinjal,3
+3508,18455,Vegetables,4,Tomato,4
+3508,18455,Vegetables,4,Chillies,18
+3508,18455,Vegetables,4,Cluster beans,133
+3508,18455,Border crops,5,Maize(Corn),6
+3508,18455,Border crops,5,Jowar,25
+3508,18455,Small shadow,6,Banana,24
+3508,18455,High shadow fruit plants,7,Sapota,148
+3073,18712,Underground tuber,1,Beetroot,113
+3073,18712,Creepers,2,Bottle Gourd,135
+3073,18712,Leafy vegetables,3,Soreel,102
+3073,18712,Vegetables,4,Brinjal,3
+3073,18712,Vegetables,4,Tomato,4
+3073,18712,Border crops,5,Maize(Corn),6
+2538,19203,Underground tuber,1,Beetroot,113
+2538,19203,Underground tuber,1,Onion,153
+2538,19203,Creepers,2,Beans,8
+2538,19203,Creepers,2,Bitter Gourd,138
+2538,19203,Leafy vegetables,3,Soreel,102
+2538,19203,Leafy vegetables,3,FenuGreek Leaves,121
+2538,19203,Leafy vegetables,3,Roselle,122
+2538,19203,Leafy vegetables,3,Spinach,124
+2538,19203,Vegetables,4,Brinjal,3
+2538,19203,Vegetables,4,Tomato,4
+2538,19203,Vegetables,4,Okra(Benda),5
+2538,19203,Vegetables,4,Chillies,18
+2538,19203,Border crops,5,Maize(Corn),6
+2538,19203,Border crops,5,Bajra,16
+2249,19716,Underground tuber,1,Radish,131
+2249,19716,Underground tuber,1,Onion,153
+2249,19716,Leafy vegetables,3,FenuGreek Leaves,121
+2249,19716,Leafy vegetables,3,Roselle,122
+2249,19716,Leafy vegetables,3,Spinach,124
+2249,19716,Vegetables,4,Tomato,4
+3295,19732,Underground tuber,1,Beetroot,113
+3295,19732,Underground tuber,1,Radish,131
+3295,19732,Underground tuber,1,Potato ,139
+3295,19732,Underground tuber,1,Carrot,149
+3295,19732,Underground tuber,1,Onion,153
+3295,19732,Creepers,2,Ridge Gourd,137
+3295,19732,Creepers,2,Bitter Gourd,138
+3295,19732,Leafy vegetables,3,Soreel,102
+3295,19732,Leafy vegetables,3,Amaranthus,126
+3295,19732,Vegetables,4,Brinjal,3
+3295,19732,Vegetables,4,Cluster beans,133
+3295,19732,Border crops,5,Maize(Corn),6
+3295,19732,Small shadow,6,Drumstick,127
+3295,19732,High shadow fruit plants,7,Mango,14
+2585,20867,Underground tuber,1,Yam(Kanda),7
+2585,20867,Underground tuber,1,Ground Nut,9
+2585,20867,Underground tuber,1,Elephant Foot,19
+2585,20867,Underground tuber,1,Turmeric,23
+2585,20867,Underground tuber,1,Beetroot,113
+2585,20867,Border crops,5,Maize(Corn),6
+2585,20867,Small shadow,6,Curry Leaves,123
+2948,22066,Underground tuber,1,Beetroot,113
+2948,22066,Underground tuber,1,Radish,131
+2948,22066,Underground tuber,1,Carrot,149
+2948,22066,Underground tuber,1,Onion,153
+2948,22066,Creepers,2,Beans,8
+2948,22066,Creepers,2,Ridge Gourd,137
+2948,22066,Creepers,2,Bitter Gourd,138
+2948,22066,Leafy vegetables,3,Mint Leaves,106
+2948,22066,Leafy vegetables,3,Coriander,120
+2948,22066,Leafy vegetables,3,Spinach,124
+2948,22066,Leafy vegetables,3,Amaranthus,126
+2948,22066,Vegetables,4,Brinjal,3
+2948,22066,Vegetables,4,Tomato,4
+2948,22066,Vegetables,4,Okra(Benda),5
+2948,22066,Vegetables,4,Cluster beans,133
+2948,22066,Border crops,5,Maize(Corn),6
+2948,22066,Small shadow,6,Curry Leaves,123
+2948,22066,High shadow fruit plants,7,Mango,14
+3294,23124,Underground tuber,1,Beetroot,113
+3294,23124,Creepers,2,Bitter Gourd,138
+3294,23124,Leafy vegetables,3,Coriander,120
+3294,23124,Vegetables,4,Okra(Benda),5
+3294,23124,Border crops,5,Maize(Corn),6
